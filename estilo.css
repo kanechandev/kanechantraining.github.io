@@ -1,0 +1,31 @@
+
+/* @keyframes example{
+    from {background-color: red;}
+    to {background-color: yellow;}
+}*/
+img {
+    width: 400px;
+    height: 200px;
+}
+
+p:hover{
+    background-color: rgb(56, 46, 185);
+}
+
+p {
+    line-height: 1.5;
+    text-transform: none;
+    letter-spacing: 5px;
+    text-decoration: underline aqua;
+    /*animation-name: example;
+    animation-duration: 4s;*/
+}
+
+h1 {
+    text-shadow: 2px -2px red;
+}
+
+#caixa {
+    width: 100%;
+    text-align: center;
+}
